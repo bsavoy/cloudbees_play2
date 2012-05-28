@@ -1,0 +1,18 @@
+<project>
+  	<modelVersion>4.0.0</modelVersion>
+  	<groupId>org.cloudbees.templates</groupId>
+  	<artifactId>play2-cloudbees-template</artifactId>
+  	<version>1.0</version>
+   	<packaging>war</packaging>
+   	<name>A Simple Play 2 Webapp</name>
+  	<description>A template for a Play 2 webapp</description>
+   
+   	<dependencies>
+		<dependency>
+			<groupId>de.akquinet.innovation.play2</groupId>
+			<artifactId>play2-maven-plugin</artifactId>
+			<version>1.1.0</version>
+		</dependency>
+	</dependencies>
+
+</project>
