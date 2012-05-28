@@ -6,7 +6,11 @@
    	<packaging>war</packaging>
    	<name>A Simple Play 2 Webapp</name>
   	<description>A template for a Play 2 webapp</description>
-   
+   	
+   	<configuration>
+        <failOnMissingWebXml>false</failOnMissingWebXml>
+    </configuration>
+
     <build>
         <pluginManagement>
             <plugins>
